@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vV7qAReefKJRxFFG87nFuGYrPr+OoBzRsT53O9BuaegYWy8uPEKpjE7jJg3COt5+S385V/G6+TXTHRBqW74OEg==",
+  "dgSpecHash": "hcnATeQQsXtPtQn6IV6gsOlOmcYyd/eaJZHuEbv81irEkOENwVbUIAYl9H3re4EGXKrrBCEJ+78zdEkZbV/7Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IPFS\\Desktop\\muratyucedagyt\\MuratYucedag-ASP.NETCORE-yt\\Muratyucedag\\Businesslayer\\Businesslayer.csproj",
+  "projectFilePath": "C:\\Users\\IPFS\\Desktop\\yt\\Proje\\Businesslayer\\Businesslayer.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\IPFS\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

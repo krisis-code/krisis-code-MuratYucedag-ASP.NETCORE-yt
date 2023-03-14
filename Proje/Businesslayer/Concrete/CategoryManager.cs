@@ -4,17 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using Businesslayer.Abstract;
 
 namespace EntityLayer.Concrete
 {
-    public class CategoryManager
+    public class CategoryManager : ICategoryService
     {
+        public void CategoryAdd(CategoryManager category)
+        {
+            throw new NotImplementedException();
+        }
 
-        [Key]
-        public int CategoryId { get; set; }
-        public string CategoryName { get; set; }
-        public String CategoryDescription { get; set; }
-        public bool CategoryStatus { get; set; }
-        public List<BlogManager> Blogs { get; set; }
+        public void CategoryDelete(CategoryManager category)
+        {
+            throw new NotImplementedException();
+        }
+
+        public CategoryManager CategoryGetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<CategoryManager> CategoryList()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void CategoryUpdate(CategoryManager category)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

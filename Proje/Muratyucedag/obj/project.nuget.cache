@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d4XcuLSgEUN6JKbRUpCVVmDsQKqTHWZZFTBERg20YqPgdtCpR70AnWEibvIBvFgotvxXAdPoiFpCKipg0WviVw==",
+  "dgSpecHash": "7jRo6RQjV2fIT872OOhq+CPSwavwpDXd2r2Nq7BONttkxoouKwe2+YspLlXB8x8rGqrfKdHtpXPb5wvpX3ph0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IPFS\\Desktop\\muratyucedagyt\\MuratYucedag-ASP.NETCORE-yt\\Muratyucedag\\muratyucedag\\muratyucedag.csproj",
+  "projectFilePath": "C:\\Users\\IPFS\\Desktop\\yt\\Proje\\muratyucedag\\muratyucedag.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IPFS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
